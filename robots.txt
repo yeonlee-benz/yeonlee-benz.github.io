@@ -1,2 +1,4 @@
+# 카카오톡 등 링크 미리보기를 위해 읽는 것은 허용합니다.
+# 검색 등록은 각 페이지의 <meta name="robots" content="noindex"> 로 막습니다.
 User-agent: *
-Disallow: /
+Allow: /
